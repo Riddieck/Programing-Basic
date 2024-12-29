@@ -1,2 +1,0 @@
-# Programing-Basic
-Storage
